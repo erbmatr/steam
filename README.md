@@ -1,8 +1,8 @@
-# **👾 Steam's Videogames Platform**
+# **👾 Steam's videogames platform**
 
 Exploration and analysis of the video game market on Steam using PySpark and Databricks.
 
-### **Project Overview**
+### **Project overview**
 
 This project aims to provide an in-depth analysis of the video games available on the Steam platform. The study was conducted as part of a fictional collaboration with Ubisoft, which is looking to better understand the current trends in the gaming market in preparation for launching a new, groundbreaking title.
 
@@ -20,12 +20,12 @@ The main goal is to identify key factors that influence a game's popularity or s
 
 - Pricing and discount analysis: price distributions, presence of discounted games
 
-### **Technologies Used**
+### **Technologies used**
 
 - Databricks for data processing and visualization
 - PySpark for large-scale data manipulation
 - Python for advanced transformations
-- Databricks Dashboard for interactive visualizations
+- Databricks dashboard for interactive visualizations
 
 ### **Dataset** 
 
